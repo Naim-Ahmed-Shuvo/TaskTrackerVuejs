@@ -1,0 +1,9 @@
+{
+    "tasks": [
+      { "id": 1, "text": "json-server", "date": " ", "reminder":false },
+      { "id": 2, "text": "json-server", "date": " ", "reminder":false },
+      { "id": 3, "text": "json-server", "date": " ", "reminder":false },
+      { "id": 4, "text": "json-server", "date": " ", "reminder":false }
+    ]
+  
+}
